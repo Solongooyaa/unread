@@ -8,4 +8,5 @@
   width: 1200px;
   margin-top: auto;
   margin-left: auto;
+  display: flex;
 }
