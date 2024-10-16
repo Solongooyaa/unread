@@ -1,0 +1,6 @@
+.hero {
+  height: 600vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0))
+    url("https://unread.today/c/election-2024-result");
+  background-size: 100%;
+}
