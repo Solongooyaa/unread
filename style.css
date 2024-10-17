@@ -172,8 +172,11 @@ body {
 .article1 {
   width: 700px;
 }
+.article-author-name {
+}
 .content {
   width: 730px;
   height: 183px;
   background-color: #ffffff;
+  border-radius: 20px;
 }
