@@ -172,35 +172,135 @@ body {
 .article1 {
   width: 700px;
 }
-.article-author-name {
+.article1-author {
+  display: flex;
+  margin-bottom: 5px;
+}
+.article-date {
+  margin: 10px 8px 0 8px;
+  font-size: 11.8px;
+}
+.article-author-date-min {
+  color: #888888;
 }
 .content {
   width: 730px;
   height: 183px;
   background-color: #ffffff;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+.content-cover {
+  margin-left: 500px;
+}
+.article2 {
+  margin-left: 450px;
+}
+.article-author2 {
+  display: flex;
+  margin-left: 530px;
+  margin-bottom: 5px;
+}
+.article-date2 {
+  margin: 8px 10px 0 0px;
+  font-size: 11.8px;
+}
+.article-author-name2 {
+  margin-left: 5px;
+}
+.article-author-date-min2 {
+  color: #888888;
 }
 .content2 {
   width: 730px;
   height: 183px;
   background-color: #ffffff;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+.content-cover2 {
+  margin-left: 500px;
+}
+.article3 {
+  width: 700px;
+}
+.article-author3 {
+  display: flex;
+  margin-bottom: 5px;
+}
+.article-date3 {
+  margin: 10px 8px 0 8px;
+  font-size: 11.8px;
+}
+.article-author-date-min3 {
+  color: #888888;
 }
 .content3 {
   width: 730px;
   height: 183px;
   background-color: #ffffff;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.content-cover3 {
+  margin-left: 500px;
+}
+.article4 {
+  margin-left: 450px;
+}
+
+.article-author4 {
+  display: flex;
+  margin-left: 530px;
+  margin-bottom: 5px;
+}
+.article-date4 {
+  margin: 8px 10px 0 0px;
+  font-size: 11.8px;
+}
+.article-author-name4 {
+  margin-left: 60px;
+}
+.article-author-date-min4 {
+  color: #888888;
 }
 .content4 {
   width: 730px;
   height: 183px;
   background-color: #ffffff;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+.content-cover4 {
+  margin-left: 500px;
+}
+.article5 {
+  width: 700px;
+}
+.article-author5 {
+  display: flex;
+  margin-bottom: 5px;
+}
+.article-date5 {
+  margin: 10px 8px 0 8px;
+  font-size: 11.8px;
+}
+.article-author-date-min5 {
+  color: #888888;
 }
 .content5 {
   width: 730px;
   height: 183px;
   background-color: #ffffff;
   border-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+.content-cover5 {
+  margin-left: 500px;
 }
