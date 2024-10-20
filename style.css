@@ -335,3 +335,51 @@ body {
 .footer-item {
   width: 450px;
 }
+.footer-item-contact1 {
+  width: 393px;
+  height: 90px;
+  background-color: #888888;
+  border-radius: 20px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.footer-button {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.material-symbols-outlined {
+  color: #fafafa;
+}
+.footer-item-contact2 {
+  width: 393px;
+  height: 90px;
+  background-color: #888888;
+  border-radius: 20px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.footer-button {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-item-link {
+  display: flex;
+  margin-top: 60px;
+  gap: 15px;
+}
+.footer-grid {
+}
