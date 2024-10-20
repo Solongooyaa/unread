@@ -122,11 +122,9 @@ body {
 .hero-author {
   display: flex;
   margin-top: 50px;
-  display: flex;
 }
 .hero-author-sub {
-  margin-left: 8px;
-  margin-top: 5px;
+  margin-left: 5px 0 0 8px;
 }
 .hero-author-date-name {
   font-size: 12px;
@@ -243,7 +241,7 @@ body {
   background-color: #ffffff;
   border-radius: 20px;
   display: flex;
-  align-items: center;
+  justify-content: space-around;
 }
 
 .content-cover3 {
@@ -301,6 +299,39 @@ body {
   display: flex;
   align-items: center;
 }
+
 .content-cover5 {
   margin-left: 500px;
+}
+.prevweek {
+  width: 1116px;
+  height: 1400px;
+}
+
+.grid-item {
+  display: grid;
+  grid-template-columns: 640px;
+  grid-template-rows: 560px;
+}
+
+.footer {
+  background-color: #000;
+  height: 750px;
+}
+.footer-top {
+  background-color: #fff;
+  height: 80px;
+  border-radius: 0 0 30px 30px;
+}
+.footer-container {
+  width: 1300px;
+  height: 545px;
+  margin: 130px auto auto auto;
+}
+.footer-center {
+  width: 1200px;
+  height: 403px;
+}
+.footer-item {
+  width: 450px;
 }
