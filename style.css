@@ -241,16 +241,20 @@ body {
   background-color: #ffffff;
   border-radius: 20px;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
-
+.content-article {
+  display: flex;
+}
 .content-cover3 {
   margin-left: 500px;
 }
 .article4 {
   margin-left: 450px;
 }
-
+.content-article {
+  width: 200px;
+}
 .article-author4 {
   display: flex;
   margin-left: 530px;
@@ -326,11 +330,12 @@ body {
 .footer-container {
   width: 1300px;
   height: 545px;
-  margin: 130px auto auto auto;
+  margin: 100px auto auto auto;
 }
 .footer-center {
   width: 1200px;
   height: 403px;
+  display: flex;
 }
 .footer-item {
   width: 450px;
@@ -382,4 +387,10 @@ body {
   gap: 15px;
 }
 .footer-grid {
+}
+.social-link {
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.2;
+  margin-top: 20px;
 }
