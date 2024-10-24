@@ -194,7 +194,6 @@ body {
   height: 327px;
   background-color: #000000;
   text-align: center;
-  position: relative;
 }
 .section-title {
   color: #ffffff;
@@ -210,12 +209,13 @@ body {
 }
 .editors-slider {
   display: flex;
-  justify-content: center;
   align-items: center;
   gap: 30px;
-  overflow: scroll;
+  overflow-x: scroll;
   width: 80%;
-  position: absolute;
+  height: 460px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .slide {
   transition: all ease 0.5s;
@@ -226,7 +226,7 @@ body {
 .article {
   width: 1186px;
   height: 1250px;
-  margin-top: 200px;
+  margin-top: 220px;
   margin-left: auto;
   margin-right: auto;
 }
